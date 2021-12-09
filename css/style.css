@@ -386,7 +386,7 @@ body:after {
 .site-navbar .site-navigation .site-menu .active {
   color: #fd7e14;
   display: inline-block;
-  /* padding: 20px 20px; */
+  padding: 20px 20px;
 }
 .site-navbar .site-navigation .site-menu a {
   text-decoration: none !important;
