@@ -2282,6 +2282,8 @@ body:after {
 }
 
 .team-member figure {
+  border-radius: 10px;
+  height: 200px;
   margin: 0;
   padding: 0;
   position: relative;
